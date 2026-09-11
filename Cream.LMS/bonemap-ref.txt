@@ -1,0 +1,236 @@
+
+	====== TailsDoll ======
+	
+BasePart: Cube.019
+BasePart: Cube.011
+BasePart: Cube.013
+BasePart: Cube.025
+BasePart: Cube.007
+BasePart: Cube.010
+BasePart: Cube.012
+BasePart: Cube.026
+BasePart: TrFabricTears
+BasePart: TrFabricTears2
+BasePart:  HangingFabricTorn
+BasePart:  HangingFabricTorn.001
+BasePart: Cube.024
+BasePart: Cube.022
+BasePart: Cube.008
+BasePart: RClaw1
+BasePart: RClaw2
+BasePart: RClaw3
+BasePart: RClaw4
+BasePart: LClaw1
+BasePart: LClaw2
+BasePart: LClaw3
+BasePart: LClaw4
+BasePart: LShoe
+BasePart: Zip
+BasePart: Head
+Motor6D: Ropething | Parent: Head
+Motor6D: Hair | Parent: Head
+Motor6D: REye | Parent: Head
+Motor6D: LEye | Parent: Head
+Motor6D: Zip | Parent: Head
+BasePart: LArm3
+Motor6D: LArm4 | Parent: LArm3
+BasePart: MainBody
+Motor6D: RArm1 | Parent: MainBody
+Motor6D: LArm1 | Parent: MainBody
+Motor6D: LTail | Parent: MainBody
+Motor6D: RTail | Parent: MainBody
+Motor6D: Head | Parent: MainBody
+BasePart: Hair
+BasePart: RHand
+Motor6D: RClaw1 | Parent: RHand
+Motor6D: RClaw2 | Parent: RHand
+Motor6D: RClaw3 | Parent: RHand
+Motor6D: RClaw4 | Parent: RHand
+BasePart: LLeg4
+Motor6D: LSock | Parent: LLeg4
+BasePart: RSock
+Motor6D: RShoe | Parent: RSock
+BasePart: RShoe
+BasePart: RTail
+BasePart: Ropething
+Motor6D: Diamond | Parent: Ropething
+BasePart: RLeg3
+Motor6D: RLeg4 | Parent: RLeg3
+BasePart: RArm5
+Motor6D: RHand | Parent: RArm5
+BasePart: RArm1
+Motor6D: RArm2 | Parent: RArm1
+BasePart: LArm5
+Motor6D: LHand | Parent: LArm5
+BasePart: LLeg2
+Motor6D: LLeg3 | Parent: LLeg2
+BasePart: RArm2
+Motor6D: RArm3 | Parent: RArm2
+BasePart: LArm1
+Motor6D: LArm2 | Parent: LArm1
+BasePart: HumanoidRootPart
+Motor6D: Waist | Parent: HumanoidRootPart
+BasePart: LArm4
+Motor6D: LArm5 | Parent: LArm4
+BasePart: Diamond
+BasePart: LLeg3
+Motor6D: LLeg4 | Parent: LLeg3
+BasePart: RArm3
+Motor6D: RArm4 | Parent: RArm3
+BasePart: RArm4
+Motor6D: RArm5 | Parent: RArm4
+BasePart: LSock
+Motor6D: LShoe | Parent: LSock
+BasePart: LTail
+BasePart: RLeg2
+Motor6D: RLeg3 | Parent: RLeg2
+BasePart: RLeg1
+Motor6D: RLeg2 | Parent: RLeg1
+BasePart: LLeg1
+Motor6D: LLeg2 | Parent: LLeg1
+BasePart: RLeg4
+Motor6D: RSock | Parent: RLeg4
+BasePart: Waist
+Motor6D: RLeg1 | Parent: Waist
+Motor6D: LLeg1 | Parent: Waist
+Motor6D: MainBody | Parent: Waist
+BasePart: LEye
+BasePart: REye
+BasePart: LArm2
+Motor6D: LArm3 | Parent: LArm2
+BasePart: LHand
+Motor6D: LClaw1 | Parent: LHand
+Motor6D: LClaw2 | Parent: LHand
+Motor6D: LClaw3 | Parent: LHand
+Motor6D: LClaw4 | Parent: LHand
+
+	====== Cream ======
+
+BasePart: Cylinder.024
+Motor6D: Cylinder.022 | Parent: Cylinder.024
+BasePart: Cylinder.023
+Motor6D: Cylinder.024 | Parent: Cylinder.023
+BasePart: Cylinder.021
+Motor6D: Cylinder.027 | Parent: Cylinder.021
+BasePart: Cylinder.020
+Motor6D: Cylinder.019 | Parent: Cylinder.020
+BasePart: Cylinder.022
+Motor6D: Left Sleeve | Parent: Cylinder.022
+BasePart: Cylinder.019
+BasePart: Left Hand
+Motor6D: Cylinder.020 | Parent: Left Hand
+Motor6D: Cylinder.028 | Parent: Left Hand
+Motor6D: Cylinder.031 | Parent: Left Hand
+Motor6D: Cylinder.021 | Parent: Left Hand
+BasePart: Left Sleevee
+Motor6D: Left Hand | Parent: Left Sleevee
+BasePart: Sphere.020
+BasePart: Cylinder.031
+Motor6D: Cylinder.030 | Parent: Cylinder.031
+BasePart: Cylinder.030
+BasePart: Cylinder.029
+BasePart: Cylinder.027
+BasePart: Cylinder.028
+Motor6D: Cylinder.029 | Parent: Cylinder.028
+BasePart: Sphere.034
+BasePart: Sphere.035
+BasePart: ShoeSleeve
+Motor6D: Right Shoe | Parent: ShoeSleeve
+BasePart: Right Shoe
+BasePart: Sphere.037
+BasePart: ShoeSleeve
+Motor6D: Left Shoe | Parent: ShoeSleeve
+BasePart: Sphere.032
+BasePart: Sphere.036
+BasePart: Sphere.038
+BasePart: Left Shoe
+BasePart: Cylinder.013
+Motor6D: Cylinder.012 | Parent: Cylinder.013
+BasePart: Right Sleevee
+Motor6D: Right Hand | Parent: Right Sleevee
+BasePart: Sphere.024
+BasePart: Cylinder.014
+Motor6D: Right Sleeve | Parent: Cylinder.014
+BasePart: Cylinder.012
+Motor6D: Cylinder.014 | Parent: Cylinder.012
+BasePart: Cylinder.017
+Motor6D: Cylinder.018 | Parent: Cylinder.017
+BasePart: Cylinder.018
+BasePart: Right Hand
+Motor6D: Cylinder.017 | Parent: Right Hand
+Motor6D: Cylinder.008 | Parent: Right Hand
+Motor6D: Cylinder.005 | Parent: Right Hand
+Motor6D: Cylinder.016 | Parent: Right Hand
+BasePart: Cylinder.005
+Motor6D: Cylinder.006 | Parent: Cylinder.005
+BasePart: Cylinder.016
+Motor6D: Cylinder.009 | Parent: Cylinder.016
+BasePart: Cylinder.008
+Motor6D: Cylinder.007 | Parent: Cylinder.008
+BasePart: Cylinder.006
+BasePart: Cylinder.007
+BasePart: Cylinder.009
+BasePart: Sphere.031
+BasePart: tail
+BasePart: Sphere.028
+BasePart: dress
+BasePart: Body
+Motor6D: tail | Parent: Body
+Motor6D: Left Sleeve | Parent: Body
+Motor6D: Right Sleeve | Parent: Body
+Motor6D: Head | Parent: Body
+BasePart: Sphere.027
+BasePart: Sphere.025
+BasePart: Right Leg
+Motor6D: Cylinder.001 | Parent: Right Leg
+BasePart: Cylinder.001
+Motor6D: Cylinder | Parent: Cylinder.001
+BasePart: Cylinder
+Motor6D: ShoeSleeve | Parent: Cylinder
+BasePart: Cylinder.035
+Motor6D: ShoeSleeve | Parent: Cylinder.035
+BasePart: Cylinder.034
+Motor6D: Cylinder.035 | Parent: Cylinder.034
+BasePart: Left Leg
+Motor6D: Cylinder.034 | Parent: Left Leg
+BasePart: REar
+Motor6D: REar2 | Parent: REar
+Motor6D: RInside | Parent: REar
+BasePart: REar2
+BasePart: RInside
+BasePart: LEar
+Motor6D: LEar2 | Parent: LEar
+Motor6D: LInside | Parent: LEar
+BasePart: LEar2
+BasePart: LInside
+BasePart: nose
+BasePart: eyes
+BasePart: Sphere.010
+BasePart: muzzle
+BasePart: Sphere.012
+BasePart: Sphere.006
+BasePart: bowtie
+BasePart: Sphere.015
+BasePart: Sphere.019
+BasePart: bowtie
+BasePart: eye2
+BasePart: eye1
+BasePart: Sphere.018
+BasePart: Sphere.029
+BasePart: Left Sleeve
+Motor6D: Cylinder.023 | Parent: Left Sleeve
+BasePart: waist
+Motor6D: Body | Parent: waist
+Motor6D: Left Leg | Parent: waist
+Motor6D: Right Leg | Parent: waist
+BasePart: Right Sleeve
+Motor6D: Cylinder.013 | Parent: Right Sleeve
+BasePart: Sphere.026
+BasePart: HumanoidRootPart
+Motor6D: waist | Parent: HumanoidRootPart
+BasePart: Head
+Motor6D: muzzle | Parent: Head
+Motor6D: eye1 | Parent: Head
+Motor6D: eye2 | Parent: Head
+Motor6D: REar | Parent: Head
+Motor6D: LEar | Parent: Head
